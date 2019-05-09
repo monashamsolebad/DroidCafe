@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.support:design:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/532d7bb10b576de99088cdfefc8ad5b9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/41bf5a35c27f10d06bf5f2f3a3eddf8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d59aec7c4f7916ffe6b64c771824457e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8ec778280367bcb54ea03905fd644b72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/70993206c9539bf0b903d19a62f2863e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/e63740ea58e41ea75e684a89d29d19b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/63f531692f22b003928410b5dcce631e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2a46be98e8af8d1482202c6d7e618ee6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e189e1785ff01eda2e64cac64628f131/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/32e22ec57b63043d2493fd2bb1c82310/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b36dc278253af639b0108836b56082cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5bcd9fdcc118625721480667a2abc03a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4ccde08d176f430071091e227cd71dd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/df9d0730ec30cd68ea5d41e6fbfff21a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f49bc17b0605ec9b662b8e5a976b18c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/76cf9aefe51a888e3011aef40e8b659b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/8012123587cc0da3bb3e0931d5e2aba0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5f9850dcd010f4c60d2e5feeb79c0314/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7888a342f5167c170956f9b5276cac31/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4b78d05ffbe7cbf3c82475445da55cf7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9fa61a9ba8059fd9e4f1573ca8277eef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d36778418a4e6514f5194ff5333bd426/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/91df3dd9a49471e31a138653cfa242d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8e33216a60d0a69652b124ffff40ed1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/50f2e3f363e9efbcb244c18662137f16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7c4368bc7893c7117cf2835d336f863f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ba8415a4de9824149e8a9430d20dd1df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28e1adc7677aa350590642c8738bc48f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/49143eb5cd95d0094d68bdc4043c561c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d65cc25909e032cd5e69e2fa31feb1b6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d586ef0fc823ffada35d66447947c830/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:19:5-44
+		INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:21:5-39:19
+MERGED from [com.android.support:design:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/532d7bb10b576de99088cdfefc8ad5b9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/532d7bb10b576de99088cdfefc8ad5b9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d59aec7c4f7916ffe6b64c771824457e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d59aec7c4f7916ffe6b64c771824457e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7888a342f5167c170956f9b5276cac31/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7888a342f5167c170956f9b5276cac31/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4b78d05ffbe7cbf3c82475445da55cf7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4b78d05ffbe7cbf3c82475445da55cf7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7888a342f5167c170956f9b5276cac31/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.droidcafe.MainActivity
+ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:35:27-74
+activity#com.example.android.droidcafe.OrderActivity
+ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:38:9-60
+	android:name
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml:38:19-48
+uses-sdk
+INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/532d7bb10b576de99088cdfefc8ad5b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/532d7bb10b576de99088cdfefc8ad5b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/41bf5a35c27f10d06bf5f2f3a3eddf8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/41bf5a35c27f10d06bf5f2f3a3eddf8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d59aec7c4f7916ffe6b64c771824457e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d59aec7c4f7916ffe6b64c771824457e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8ec778280367bcb54ea03905fd644b72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8ec778280367bcb54ea03905fd644b72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/70993206c9539bf0b903d19a62f2863e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/70993206c9539bf0b903d19a62f2863e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/e63740ea58e41ea75e684a89d29d19b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/e63740ea58e41ea75e684a89d29d19b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/63f531692f22b003928410b5dcce631e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/63f531692f22b003928410b5dcce631e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2a46be98e8af8d1482202c6d7e618ee6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2a46be98e8af8d1482202c6d7e618ee6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e189e1785ff01eda2e64cac64628f131/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e189e1785ff01eda2e64cac64628f131/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/32e22ec57b63043d2493fd2bb1c82310/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/32e22ec57b63043d2493fd2bb1c82310/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b36dc278253af639b0108836b56082cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b36dc278253af639b0108836b56082cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5bcd9fdcc118625721480667a2abc03a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5bcd9fdcc118625721480667a2abc03a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4ccde08d176f430071091e227cd71dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4ccde08d176f430071091e227cd71dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/df9d0730ec30cd68ea5d41e6fbfff21a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/df9d0730ec30cd68ea5d41e6fbfff21a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f49bc17b0605ec9b662b8e5a976b18c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f49bc17b0605ec9b662b8e5a976b18c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/76cf9aefe51a888e3011aef40e8b659b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/76cf9aefe51a888e3011aef40e8b659b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/8012123587cc0da3bb3e0931d5e2aba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/8012123587cc0da3bb3e0931d5e2aba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5f9850dcd010f4c60d2e5feeb79c0314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5f9850dcd010f4c60d2e5feeb79c0314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7888a342f5167c170956f9b5276cac31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7888a342f5167c170956f9b5276cac31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4b78d05ffbe7cbf3c82475445da55cf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4b78d05ffbe7cbf3c82475445da55cf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9fa61a9ba8059fd9e4f1573ca8277eef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9fa61a9ba8059fd9e4f1573ca8277eef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d36778418a4e6514f5194ff5333bd426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d36778418a4e6514f5194ff5333bd426/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/91df3dd9a49471e31a138653cfa242d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/91df3dd9a49471e31a138653cfa242d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8e33216a60d0a69652b124ffff40ed1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8e33216a60d0a69652b124ffff40ed1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/50f2e3f363e9efbcb244c18662137f16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/50f2e3f363e9efbcb244c18662137f16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7c4368bc7893c7117cf2835d336f863f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7c4368bc7893c7117cf2835d336f863f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ba8415a4de9824149e8a9430d20dd1df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ba8415a4de9824149e8a9430d20dd1df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28e1adc7677aa350590642c8738bc48f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28e1adc7677aa350590642c8738bc48f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/49143eb5cd95d0094d68bdc4043c561c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/49143eb5cd95d0094d68bdc4043c561c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d65cc25909e032cd5e69e2fa31feb1b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d65cc25909e032cd5e69e2fa31feb1b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d586ef0fc823ffada35d66447947c830/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d586ef0fc823ffada35d66447947c830/AndroidManifest.xml:20:5-44
+INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/monashamsolebad/Downloads/DroidCafe/app/src/main/AndroidManifest.xml
